@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathamanvekar
 - 👀 I’m interested in Full-Stack Development and Web Development!
-- 🌱 I’m currently learning C++!
+- 🌱 I’m currently learning C++, HTML, CSS and Javascript!
 
 
 <!---
