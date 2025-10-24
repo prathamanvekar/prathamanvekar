@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamanvekar&label=Profile%20views&color=0e75b6&style=flat" alt="prathamanvekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamanvekar" alt="prathamanvekar" /></a> </p>
-
 - 🔭 I’m currently working on [coding-track](https://github.com/prathamanvekar/coding-track)
 
 - 🌱 I’m currently learning **Backend Development from boot.dev!**
