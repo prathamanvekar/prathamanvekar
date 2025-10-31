@@ -1,47 +1,84 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prathamesh Anvekar</h1>
-<h3 align="center">A backend & AI developer from India 🇮🇳</h3>
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there;+i'm+prathamesh+anvekar;+backend+%26+ai+dev" alt="Typing SVG" />
 
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="22" />](https://twitter.com/prathamiscool)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />](https://linkedin.com/in/prathamanvekar)
+[<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" height="22" />](https://portfolio-prathamanvekar.vercel.app)
+
+<img src="https://i.pinimg.com/originals/1a/01/5f/1a015f044ca3b2ab541f7e246913a246.gif" width="120">
+
+</div>
+
+---
+
+<details open>
+  <summary><b>what's cooking 🧑‍🍳</b></summary>
+  <br>
+  <img src="https://media.tenor.com/Vu7NiEEgzA4AAAAM/cat-pizza.gif" width="100">
+  
+  - learning backend dev at [boot.dev](https://boot.dev/)  
+  - building [coding-track](https://github.com/prathamanvekar/coding-track)
+</details>
+
+---
+
+<details open>
+  <summary><b>what i've cooked so far 🍳</b></summary>
+  <br>
+  <img src="https://i.pinimg.com/originals/0d/ac/06/0dac06a5332d13e2a4e2dc30ba0c6411.gif" width="100">
+  
+  - backend lead @ ieee web team  
+  - built a few full-stack projects (some even work)
+</details>
+
+---
+
+<details open>
+  <summary><b>things i know (kinda) ⚙️</b></summary>
+  <br>
+  <img src="https://i.pinimg.com/736x/d8/60/1e/d8601e256b827015e1012abf610b74c4.jpg" width="100">
+  
+  `python` • `c++` • `java`  
+  `node` • `express` • `mongo` • `sql`  
+  `react` • `js` • `nextjs`  
+  `tensorflow` • `pytorch` • `gen-ai`  
+  `git` • `bash` • `zsh` • `linux`
+  
+</details>
+
+---
+
+### stats (if you even care)
 <p align="center">
-  <a href="https://twitter.com/prathamiscool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamiscool" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/prathamanvekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamanvekar" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/prathamiscool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prathamiscool" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/prathamanvekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prathamanvekar" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/prathamanvekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prathamanvekar" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/prathamanvekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamanvekar" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamanvekar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="prathamanvekar" />
-</p>
-
-<br>
-
-- 🔭 I’m currently working on [**coding-track**](https://github.com/prathamanvekar/coding-track)
-- 🌱 I’m currently learning **Backend Development** at [boot.dev](https://www.boot.dev/)!
-- 💻 All of my projects are available at [my portfolio](https://portfolio-prathamanvekar.vercel.app/)
-- 💬 Ask me about **Backend (Go, Node.js), React, and J-Pop**
-- 📫 How to reach me: **anvekarprathamesh13@gmail.com**
-- ⚡ Fun fact: *I was a child back when I was little*
-
-<br>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cpp,css,dart,django,express,flutter,git,go,html,java,js,linux,mongodb,mysql,nextjs,nginx,nodejs,opencv,postman,py,pytorch,react,sklearn,tailwind,tensorflow,ts&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">My GitHub Stats 📈</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamanvekar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prathamanvekar" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamanvekar&show_icons=true&locale=en&theme=tokyonight" alt="prathamanvekar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamanvekar&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
   &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamanvekar&theme=tokyonight" alt="prathamanvekar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamanvekar&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+---
+
+<div align="center">
+
+`i use neovim, btw`  
+
+<p>
+  <img src="https://media.tenor.com/5FKcQ0VY5qsAAAAM/tiramisu-cake-tiramisu-cake-dance.gif" width="100" style="margin:5px">
+  <img src="https://media1.tenor.com/m/QtM09XFBm6AAAAAd/bocchi-the-rock-dance.gif" width="100" style="margin:5px">
+  <img src="https://media1.tenor.com/m/iegu4kVlV_gAAAAC/evernight-hsr.gif" width="100" style="margin:5px">
+</p>
+
+<details>
+  <summary><b>terminal.exe [click to boot]</b></summary>
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=18&duration=2500&pause=1000&color=00FF9D&vCenter=true&width=400&lines=%3E+whoami;prathamanvekar;%3E+yy+p+to+yank+and+paste+iirc;:wq;%3E+exit+0" />
+</details>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=FF61C7&center=true&vCenter=true&width=435&lines=ok+im+gonna+stop+customizing+ts+so+much;btw+did+u+know+that+i+know+how+to+use+neovim">
+</p>
+
+</div>
