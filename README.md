@@ -49,14 +49,6 @@
 
 ---
 
-### stats (if you even care)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamanvekar&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamanvekar&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 <div align="center">
 
