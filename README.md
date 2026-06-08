@@ -18,32 +18,44 @@
   <img src="https://media.tenor.com/Vu7NiEEgzA4AAAAM/cat-pizza.gif" width="100">
   
   - learning backend dev at [boot.dev](https://boot.dev/)  
-  - building [coding-track](https://github.com/prathamanvekar/coding-track)
+  - building [custom http server](https://github.com/prathamanvekar/chirpy) in go
 </details>
 
 ---
 
 <details open>
-  <summary><b>what i've cooked so far 🍳</b></summary>
+  <summary><b>employment 😐</b></summary>
+  <br>
+  <img src="https://media1.tenor.com/m/u6gmNC6-UsYAAAAC/yuji-stare-yuji-itadori.gif" width="100">
+  
+  - ex intern @ qriocity  
+  - tech lead @ ieee
+</details>
+
+---
+
+<details open>
+  <summary><b>what i've cooked so far (projects) 🍳</b></summary>
   <br>
   <img src="https://i.pinimg.com/originals/0d/ac/06/0dac06a5332d13e2a4e2dc30ba0c6411.gif" width="100">
   
-  - backend lead @ ieee web team  
-  - built a few full-stack projects (some even work)
+  - low-level eBPF engine in C 
+  - stateless backend-powered secure LLM proxy server
+  - multiple ai and full stack projects
 </details>
 
 ---
 
 <details open>
-  <summary><b>things i know (kinda) ⚙️</b></summary>
+  <summary><b>things i know (skills) ⚙️</b></summary>
   <br>
   <img src="https://i.pinimg.com/736x/d8/60/1e/d8601e256b827015e1012abf610b74c4.jpg" width="100">
   
-  `python` • `c++` • `java`  
+  `go` • `python` • `c++` • `c`  
   `node` • `express` • `mongo` • `sql`  
-  `react` • `js` • `nextjs`  
+  `react` • `javascript`  
   `tensorflow` • `pytorch` • `gen-ai`  
-  `git` • `bash` • `zsh` • `linux`
+  `git` • `shell scripting` • `linux`
   
 </details>
 
@@ -52,7 +64,7 @@
 
 <div align="center">
 
-`i use neovim, btw`  
+`i use neovim and arch, btw`  
 
 <p>
   <img src="https://media.tenor.com/5FKcQ0VY5qsAAAAM/tiramisu-cake-tiramisu-cake-dance.gif" width="100" style="margin:5px">
@@ -64,13 +76,13 @@
   <summary><b>terminal.exe [click to boot]</b></summary>
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=18&duration=2500&pause=1000&color=00FF9D&vCenter=true&width=400&lines=%3E+whoami;prathamanvekar;%3E+yy+p+to+yank+and+paste+iirc;:wq;%3E+exit+0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=18&duration=2500&pause=1000&color=ACD1AF&vCenter=true&width=400&lines=%3E+whoami;prathamanvekar;%3E+yy+p+to+yank+and+paste+iirc;:wq;%3E+exit+0" />
 </details>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=FF61C7&center=true&vCenter=true&width=435&lines=ok+im+gonna+stop+customizing+ts+so+much;btw+did+u+know+that+i+know+how+to+use+neovim">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=ACD1AF&center=true&vCenter=true&width=435&lines=btw+did+u+know+that+i+use+neovim;and+that+i+use+arch+btw">
 </p>
 
 </div>
