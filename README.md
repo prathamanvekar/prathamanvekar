@@ -13,7 +13,8 @@ currently focused on **backend architecture, ai systems engineering and systems 
 ### 💻 things i know
 - **languages**: go • python • c/c++ • typescript • sql
 - **frameworks & libs**: fastapi • node • express • react • pytorch
-- **databases & tools**: postgresql • mongodb • mysql • turso • git • github (duh) • shell scripting
+- **databases**: postgresql • mongodb • mysql • turso 
+- **tools**: git • github (duh) • shell scripting
 
 ---
 
