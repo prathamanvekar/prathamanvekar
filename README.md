@@ -20,7 +20,7 @@ currently learning **file servers and cdns with aws s3 and cloudfront in go.**
 
 ### 🛠️ what i've built
 
-*   **[ergen](https://github.com/prathamanvekar/go-errgen)** • `go` - an ast-driven static analysis tool that automates go's repetitive error handling boilerplate. supports custom error handling for dynamic, project-specific workflows.
+*   **[ergen](https://github.com/prathamanvekar/ergen)** • `go` - an ast-driven static analysis tool that automates go's repetitive error handling boilerplate. supports custom error handling for dynamic, project-specific workflows.
 *   **[ebfer](https://github.com/prathamanvekar/kernel-sandbox)** • `c` • `seccomp-bpf` - a policy-driven application sandboxing engine. enforces kernel-level syscall restrictions, secures process execution via fork/exec isolation, and logs runtime violations.
 *   **[proxie](https://github.com/prathamanvekar/aegis)** • `python` • `react` • `gemma` - a security-first gateway for local quantized gemma 3 inference. uses a threat detection pipeline to sanitize pii, block prompt injections, and log telemetry.
 
