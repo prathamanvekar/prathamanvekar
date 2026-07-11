@@ -10,14 +10,6 @@ currently learning **file servers and cdns with aws s3 and cloudfront in go.**
 
 ---
 
-### 💻 things i know
-- **languages**: go • python • c/c++ • typescript • sql
-- **frameworks & libs**: fastapi • node • express • react • pytorch
-- **databases**: postgresql • mongodb • mysql • turso 
-- **tools**: git • github (duh) • shell scripting
-
----
-
 ### 🛠️ what i've built
 
 *   **[ergen](https://github.com/prathamanvekar/ergen)** • `go` - an ast-driven static analysis tool that automates go's repetitive error handling boilerplate. supports custom error handling for dynamic, project-specific workflows.
@@ -28,9 +20,17 @@ currently learning **file servers and cdns with aws s3 and cloudfront in go.**
 
 ### 💼 experience
 
-*   **backend & machine learning intern** @ **qriocity** *[jan - mar 2026]*
-    - designed and deployed end-to-end ai/ml systems (medical imaging, eeg sleep staging) using pytorch & tensorflow.
-    - built scalable, low-latency apis using fastapi and integrated them with react frontends.
+*   **machine learning intern** @ **qriocity** *[jan - mar 2026]*
+    - engineered u-net and hovernet+gnn architectures for medical segmentation, boosting accuracy up to 98% with sub-2s inference.
+    - trained transformer and deep learning models on 20gb+ datasets and deployed production inference apis via fastapi and react.
+
+---
+
+### 💻 things i know
+- **languages**: go • python • c/c++ • typescript • sql
+- **frameworks & libs**: fastapi • node • express • react • pytorch
+- **databases**: postgresql • mongodb • mysql • turso 
+- **tools**: git • github (duh) • shell scripting
 
 ---
 
