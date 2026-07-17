@@ -35,6 +35,7 @@ currently learning **file servers and cdns with aws s3 and cloudfront in go.**
 ---
 
 ### 🏆 achievements
+- **6/6 / 1850pts** - fampay ctf 2026
 - **top 150 / 80k+** - amazon ml challenge 2025
 - **top 4** - wow verse hackathon 2025 (google gdg sponsored, invited to present to google developers)
 
