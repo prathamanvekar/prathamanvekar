@@ -6,7 +6,7 @@ i build software that i'll love to use: practical, performant, secure, and syste
 
 currently learning **file servers and cdns with aws s3 and cloudfront in go.**
 
-[portfolio](https://pratham-1wk.pages.dev/) • [linkedin](https://linkedin.com/in/prathamanvekar) • [twitter](https://twitter.com/prathamiscool) • [email](mailto:anvekarprathamesh13@gmail.com)
+[portfolio](https://prathamanvekar.pages.dev/) • [linkedin](https://linkedin.com/in/prathamanvekar) • [twitter](https://twitter.com/prathamiscool) • [email](mailto:anvekarprathamesh13@gmail.com)
 
 ---
 
